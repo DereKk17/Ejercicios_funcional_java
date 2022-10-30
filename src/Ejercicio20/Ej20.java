@@ -2,7 +2,6 @@ package Ejercicio20;
 
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Ej20 {
     public static void main(String[] args) {
